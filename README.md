@@ -1,6 +1,6 @@
 # Secure vs Insecure Coding Practices in Python
 
-A comprehensive demonstration of secure coding practices in Python, comparing secure implementations against common vulnerable patterns. This educational project helps developers understand security vulnerabilities and learn how to prevent them.
+This project demonstrates secure coding practices in Python, showcasing the implementation of various security features and their insecure counterparts.
 
 ## Security Concepts Covered
 
